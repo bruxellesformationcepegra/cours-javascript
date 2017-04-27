@@ -41,22 +41,18 @@ Utiliser des templates avec Handlebars: [JavaScript Templating with Handlebars](
 
 - [Essayez les différentes méthodes de lecture et modification du DOM](https://jsfiddle.net/bfcepegra/4037fhmw/)
 
-### Parcourir des éléments ###
-
-- TODO exo parcours
-
 ### Ajouter et supprimer des éléments###
 
 - [Table des chapitres](http://jsfiddle.net/bfcepegra/5b47uhpv/): créer la table des chapitres dynamiquement
-- TODO exo création
+- [Liste de contacts](https://jsfiddle.net/bfcepegra/spuL4ydf/): créer une liste de contacts à partir d'un tableau d'objets
 
 ###Attributs et styles###
 
+- [Menu mobile 'burger' tout simple](https://jsfiddle.net/bfcepegra/a6y9ehug/)
 - [Rollover image](https://jsfiddle.net/bfcepegra/bq2ujsr8/) 
 - [Utilisation pratique des attributs `data-`](http://jsfiddle.net/bfcepegra/u6m8dxL2/)
 - Reprenez l'exercice de rollover image et voyez comment l'améliorer en utilisant un `data-`
-- TODO .addClass(): Ajout d'une classe au click pour afficher un menu burger
-- TODO: .addClass() et data(): filter un portfolio par catégories
+- [Filter un portfolio par catégorie](https://jsfiddle.net/bfcepegra/77k7624n/)
 - [Table des chapitres](http://jsfiddle.net/bfcepegra/5b47uhpv/):changer le style du chapitre associé et sélectionner le chapitre sélectionné
 - [`.each()` et animations, faire évoluer la couleur d'un élément](https://jsfiddle.net/bfcepegra/wt8476sb/)
 - [Menu dépliant avec tabs](https://jsfiddle.net/bfcepegra/hrgnncpx/) 

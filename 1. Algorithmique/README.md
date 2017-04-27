@@ -9,6 +9,7 @@
 ### Simples ###
 
 - Scratch comptable: introduisez un montant HTVA et Scratch vous dit quel est le montant TVAC
+- Générateur d'insultes: faites 3 listes (une avec des adjectifs, une avec des noms, et encore une autre avec des adjectifs), tirez un mot au hasard dans chaque liste pour faire une insulte du style "Espèce de *vieille* *chaussette* *moisie*" ! 
 
 ### Conditions ###
 
