@@ -2,6 +2,7 @@
 
 ## Théorie ##
 
+[Chapitre du syllabus](../syllabus/01_variables.pdf)
 
 ## Vidéos ##
 

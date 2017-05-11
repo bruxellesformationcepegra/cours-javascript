@@ -2,15 +2,6 @@
 
 ## Théorie ##
 
-### Parcourir des éléments ###
-
-### Ajouter et supprimer des éléments ###
-
-### Attributs ###
-
-### Classes et styles ###
-
-### Positions et dimensions ###
 
 ## Vidéos ##
 
@@ -46,7 +37,7 @@ Utiliser des templates avec Handlebars: [JavaScript Templating with Handlebars](
 - [Table des chapitres](http://jsfiddle.net/bfcepegra/5b47uhpv/): créer la table des chapitres dynamiquement
 - [Liste de contacts](https://jsfiddle.net/bfcepegra/spuL4ydf/): créer une liste de contacts à partir d'un tableau d'objets
 
-###Attributs et styles###
+### Attributs et styles ###
 
 - [Menu mobile 'burger' tout simple](https://jsfiddle.net/bfcepegra/a6y9ehug/)
 - [Rollover image](https://jsfiddle.net/bfcepegra/bq2ujsr8/) 
@@ -64,9 +55,9 @@ Utiliser des templates avec Handlebars: [JavaScript Templating with Handlebars](
 ### Positions ###
 
 - [Faire bouger Link vers la princesse](https://jsfiddle.net/bfcepegra/sjwk09ca/)
-- TODO [Pacman](http://jsfiddle.net/bfcepegra/jtofdzzb/)
+- [Pacman !](http://jsfiddle.net/bfcepegra/jtofdzzb/)
 
-###Animation du scroll###
+### Animation du scroll ###
 
  
 - [Table des chapitres](http://jsfiddle.net/bfcepegra/5b47uhpv/): faire apparaître le "retour au début" à partir de 300px et mettre en place des "smooth scroll", faire un "scroll spy"
@@ -75,7 +66,7 @@ Utiliser des templates avec Handlebars: [JavaScript Templating with Handlebars](
 
 ## Exercice ##
 
-- TODO Refaire tous les effets du plugin Smint, sans le plugin
+- [Créez votre One Page](https://github.com/bruxellesformationcepegra/lab-js-onepage)
 
 ## Articles ##
 

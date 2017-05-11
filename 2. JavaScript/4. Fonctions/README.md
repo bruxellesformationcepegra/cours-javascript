@@ -2,6 +2,7 @@
 
 ## Théorie ##
 
+[Chapitre du syllabus](../syllabus/04_fonctions.pdf)
 
 ## Vidéos ##
 

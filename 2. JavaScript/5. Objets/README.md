@@ -2,6 +2,8 @@
 
 ## Théorie ##
 
+[Chapitre du syllabus](../syllabus/05_objets.pdf)
+
 ## Vidéos ##
 
 - [Quick Start to JavaScript Volume 3](https://app.pluralsight.com/library/courses/quick-start-javascript-3-1918/exercise-files) sur Pluralsight	

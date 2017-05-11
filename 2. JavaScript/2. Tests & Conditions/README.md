@@ -2,6 +2,8 @@
 
 ## Théorie ##
 
+[Chapitre du syllabus](../syllabus/02_conditions.pdf)
+
 ## Vidéos ##
 
 - [Quick Start to JavaScript Volume 1](https://app.pluralsight.com/library/courses/quick-start-javascript-1-1870/table-of-contents) sur Pluralsight

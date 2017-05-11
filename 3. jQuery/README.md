@@ -1,5 +1,13 @@
 # jQuery #
 
+## Slides ##
+
+[JavaScript & jQuery](https://prezi.com/-hgx5u1nmtuw/module-court-javascript-jquery/)
+
+## Théorie ##
+
+[Syllabus JavaScript & jQuery complet](../syllabus/js-jquery_complet.pdf)
+
 ## Le DOM ##
 
 [Propriétés et méthodes du DOM en JavaScript](http://jsfiddle.net/bfcepegra/h7hzycp3/)
