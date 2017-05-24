@@ -2,6 +2,7 @@
 
 ## Théorie ##
 
+[Syllabus JavaScript & jQuery](../syllabus/js-jquery_complet.pdf) pages 35 à 45
 
 ## Vidéos ##
 
