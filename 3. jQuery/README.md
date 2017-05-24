@@ -6,7 +6,7 @@
 
 ## Théorie ##
 
-[Syllabus JavaScript & jQuery complet](/syllabus/js-jquery_complet.pdf)
+[Syllabus JavaScript & jQuery complet](syllabus/js-jquery_complet.pdf)
 
 ## Le DOM ##
 
