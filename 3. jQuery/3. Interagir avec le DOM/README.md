@@ -32,7 +32,7 @@ Utiliser des templates avec Handlebars: [JavaScript Templating with Handlebars](
 
 - [Essayez les différentes méthodes de lecture et modification du DOM](https://jsfiddle.net/bfcepegra/4037fhmw/)
 
-### Ajouter et supprimer des éléments###
+### Ajouter et supprimer des éléments ###
 
 - [Table des chapitres](http://jsfiddle.net/bfcepegra/5b47uhpv/): créer la table des chapitres dynamiquement
 - [Liste de contacts](https://jsfiddle.net/bfcepegra/spuL4ydf/): créer une liste de contacts à partir d'un tableau d'objets
