@@ -11,6 +11,7 @@
 ## Démos ##
 
 - [Effets visuels et animations](https://jsfiddle.net/bfcepegra/vnr5mxz8/)
+- [Utilisation de `.stop()`](https://jsfiddle.net/bfcepegra/2znm0qg2/)
 - [jQuery `.animate()` vs Velocity.js](https://jsfiddle.net/bfcepegra/swwu6x5b/)
 
 ## Exercices jsfiddle ##
