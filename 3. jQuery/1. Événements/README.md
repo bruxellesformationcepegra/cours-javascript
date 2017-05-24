@@ -2,6 +2,8 @@
 
 ## Théorie ##
 
+[Syllabus JavaScript & jQuery](../syllabus/js-jquery_complet.pdf) pages 48 à 53
+
 ## Vidéos ##
 
 - [Handling Events](https://app.pluralsight.com/player?course=jquery-fundamentals&author=dan-wahlin&name=jquery-fundamentals-events-v2&clip=0) sur Pluralsight
