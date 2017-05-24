@@ -2,6 +2,8 @@
 
 ## Théorie ##
 
+[Syllabus JavaScript & jQuery](../syllabus/js-jquery_complet.pdf) pages 53 à 55
+
 ## Vidéos ##
 
 - [Animation](http://try.jquery.com/levels/5/sections/7) sur CodeSchool
