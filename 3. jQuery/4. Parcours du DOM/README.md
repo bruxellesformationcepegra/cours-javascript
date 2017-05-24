@@ -2,6 +2,8 @@
 
 ## Théorie ##
 
+[Syllabus JavaScript & jQuery](../syllabus/js-jquery_complet.pdf) pages 55 et 56
+
 ## Vidéos ##
 
 - [Traversing](http://try.jquery.com/levels/2/sections/8) sur CodeSchool
