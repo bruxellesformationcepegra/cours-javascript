@@ -19,5 +19,4 @@
 
 ## Exercice ##
 
-- TODO Créer une carte de commande en ligne d'un resto
-	- Utiliser handlebars.js
+[Mon petit resto !](https://github.com/bruxellesformationcepegra/lab-simplefoodmenu) : créer une carte de commande très simple à partir d'un tableau d'objets
