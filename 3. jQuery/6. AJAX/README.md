@@ -18,14 +18,21 @@
 ## Exercices jsfiddle ##
 
 - [Recherche Wikipedia](http://jsfiddle.net/bfcepegra/ru40hd2y/)
-- OpenData Ville de Bruxelles
-- Catalogue Netflix
 - [Effectuer une recherche par mot-clé dans le catalogue Discogs](https://jsfiddle.net/bfcepegra/fhcxv8ec/)
 - [Afficher les conditions météo courantes en fonction de la localisation](https://jsfiddle.net/bfcepegra/5sLgjo6y/)
-- Carte de commande en AJAX
-- TODO: post de formulaire de licorne en AJAX
 
 ## Exercice ##
+
+- [OpenData Ville de Bruxelles](https://opendata.bruxelles.be/page/home/): jouez avec des données de la Ville !
+- Carte de commande en AJAX: reprenez [Mon petit resto](https://github.com/bruxellesformationcepegra/lab-simplefoodmenu) et allez chercher la liste des plats en AJAX à cette adresse: https://wt-902485dbb4fca4fccee3a0efcde5b34c-0.run.webtask.io/foodmenu
+- **TODO: Catalogue Netflix, post de formulaire en AJAX**
+
+## Liens ##
+
+Des sites qui référencent des API: 
+- https://any-api.com/
+- https://www.programmableweb.com/
+
 
 
 
