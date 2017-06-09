@@ -28,6 +28,10 @@
 - [TV Shows](https://github.com/bruxellesformationcepegra/lab-js-tvshows)
 - *A venir: post de formulaire en AJAX*
 
+## Exercice récapitulatif ##
+
+[Discover Brussels](https://github.com/bruxellesformationcepegra/lab-js-discoverbrussels)
+
 ## Liens ##
 
 Des sites qui référencent des API: 
