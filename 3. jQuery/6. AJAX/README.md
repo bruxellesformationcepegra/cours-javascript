@@ -25,7 +25,8 @@
 
 - [OpenData Ville de Bruxelles](https://opendata.bruxelles.be/page/home/): jouez avec des données de la Ville !
 - Carte de commande en AJAX: reprenez [Mon petit resto](https://github.com/bruxellesformationcepegra/lab-simplefoodmenu) et allez chercher la liste des plats en AJAX à cette adresse: https://wt-902485dbb4fca4fccee3a0efcde5b34c-0.run.webtask.io/foodmenu
-- *A venir: Catalogue Netflix, post de formulaire en AJAX*
+- [TV Shows](https://github.com/bruxellesformationcepegra/lab-js-tvshows)
+- *A venir: post de formulaire en AJAX*
 
 ## Liens ##
 
