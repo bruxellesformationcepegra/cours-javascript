@@ -14,6 +14,7 @@
 
 - [Démo de `$.getJSON()` sans Handlebars](https://jsfiddle.net/bfcepegra/ezmyg6n3/)
 - [Démo de `$.getJSON()` avec Handlebars](https://jsfiddle.net/bfcepegra/q3r3bxod/)
+- [Démo de l'envoi de formulaire de licorne en AJAX](https://jsfiddle.net/bfcepegra/cvhebt9o/)
 
 ## Exercices jsfiddle ##
 
@@ -27,7 +28,6 @@
 - [Open Data de la Région de Bruxelles](http://opendatastore.brussels/fr/)
 - Carte de commande en AJAX: reprenez [Mon petit resto](https://github.com/bruxellesformationcepegra/lab-simplefoodmenu) et allez chercher la liste des plats en AJAX à cette adresse: https://wt-902485dbb4fca4fccee3a0efcde5b34c-0.run.webtask.io/foodmenu
 - [TV Shows](https://github.com/bruxellesformationcepegra/lab-js-tvshows)
-- *A venir: post de formulaire en AJAX*
 
 ## Exercice récapitulatif ##
 
