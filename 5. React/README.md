@@ -7,4 +7,4 @@
 ## Démos ##
 
 - [Props](https://jsfiddle.net/bfcepegra/0cunnp1y/)
-- [Props vs State](https://jsfiddle.net/bfcepegra/ekffLaux/)
+- [Props vs State et premier click](https://jsfiddle.net/bfcepegra/ekffLaux/)
