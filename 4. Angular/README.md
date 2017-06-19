@@ -14,4 +14,5 @@
 
 ## Démos ##
 
-- [Discogs Search](https://github.com/bruxellesformationcepegra/lab-angular-search): recherche dans le catalogue Discogs avec le module Angular Autocomplete-Alt et les routes 
+- Simple: [Premier code en Angular](https://plnkr.co/edit/xrXxBtiyeFglVtlS7FnA?p=info)
+- Avancé : [Discogs Search](https://github.com/bruxellesformationcepegra/lab-angular-search): recherche dans le catalogue Discogs avec le module Angular Autocomplete-Alt et les routes 
