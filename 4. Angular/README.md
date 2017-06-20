@@ -2,10 +2,12 @@
 
 ## Vidéos et cours ##
 
+Par ordre de facilité / difficulté:
+
+- [AngularJS](https://www.codecademy.com/courses/learn-angularjs/lessons/your-first-app/exercises/your-first-app-hello-angularjs-i?action=lesson_resume) sur Codecademy
+- [Shaping up with AngularJS](https://www.codeschool.com/courses/shaping-up-with-angularjs) sur CodeSchool
 - [AngularJS Fundamentals](https://egghead.io/lessons/angularjs-building-an-angular-app-eggly-introduction?course=angularjs-app-from-scratch-getting-started) sur Egghead.io
 - [AngularJS: Get Started](https://app.pluralsight.com/library/courses/angularjs-get-started/table-of-contents) sur Pluralsight
-- [Shaping up with AngularJS](https://www.codeschool.com/courses/shaping-up-with-angularjs) sur CodeSchool
-- [AngularJS](https://www.codecademy.com/courses/learn-angularjs/lessons/your-first-app/exercises/your-first-app-hello-angularjs-i?action=lesson_resume) sur Codecademy
 
 ## Exercices ##
 
