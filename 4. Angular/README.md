@@ -17,4 +17,4 @@
 - Simple: [Premier data-binding avec ng-model](https://plnkr.co/edit/aBobq5HFwn9SldzdhSGO?p=preview)
 - Simple: [Incrémentation et ng-click](https://plnkr.co/edit/xrXxBtiyeFglVtlS7FnA?p=info)
 - Simple: [Premier ng-repeat](https://plnkr.co/edit/b05AcohmanRooIjWxAAe?p=preview)
-*- Avancé : [Discogs Search](https://github.com/bruxellesformationcepegra/lab-angular-search): recherche dans le catalogue Discogs avec le module Angular Autocomplete-Alt et les routes (à peaufiner)*
+- *Avancé : [Discogs Search](https://github.com/bruxellesformationcepegra/lab-angular-search): recherche dans le catalogue Discogs avec le module Angular Autocomplete-Alt et les routes (à peaufiner)*
