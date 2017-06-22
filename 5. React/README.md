@@ -10,3 +10,4 @@
 - [Props vs State et premier click](https://jsfiddle.net/bfcepegra/ekffLaux/)
 - [Liste de composants](https://jsfiddle.net/bfcepegra/xwtp3o6j/)
 - [Liste de composants avec AJAX](https://jsfiddle.net/bfcepegra/sddcz1j1/)
+- [Formulaire](https://jsfiddle.net/bfcepegra/v23jay0e/)
