@@ -18,3 +18,4 @@
 ## Liens ##
 
 - [Documentation officielle](https://facebook.github.io/react/docs/hello-world.html)
+- [Getting started with React](https://www.sitepoint.com/getting-started-react-jsx/)
