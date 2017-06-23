@@ -2,6 +2,8 @@
 
 ## Vidéos ##
 
+- [Powering up with React](https://www.codeschool.com/courses/powering-up-with-react) sur CodeSchool
+- [React Part I](https://www.codecademy.com/fr/learn/react-101) sur Codecademy
 - [React.js: Getting Started](https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents) sur Pluralsight
 
 ## Démos ##
