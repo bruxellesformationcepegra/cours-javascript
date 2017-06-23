@@ -19,3 +19,4 @@
 
 - [Documentation officielle](https://facebook.github.io/react/docs/hello-world.html)
 - [Getting started with React](https://www.sitepoint.com/getting-started-react-jsx/)
+- [Setup React JS Development Environment for ES5 and ES6](http://www.adeveloperdiary.com/react-js/setup-react-js-development-environment-for-es5-and-es6/)
