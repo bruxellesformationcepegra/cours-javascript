@@ -9,12 +9,12 @@
 ### Simples ###
 
 - Scratch comptable: introduisez un montant HTVA et Scratch vous dit quel est le montant TVAC
-- Générateur d'insultes: faites 3 listes (une avec des adjectifs, une avec des noms, et encore une autre avec des adjectifs), tirez un mot au hasard dans chaque liste pour faire une insulte du style "Espèce de *vieille* *chaussette* *moisie*" ! 
+- Générateur d'insultes: faites 3 listes (une avec des adjectifs, une avec des noms, et encore une autre avec des adjectifs), tirez un mot au hasard dans chaque liste pour faire une insulte du style "Espèce de *vieille* *chaussette* *moisie*" !
 
 ### Conditions ###
 
 - Scratch-sait-tout et vous répond à des questions types genre "quelle heure est-il ?", "qui donne cours de JavaScript ?"
-- Magic 8 Ball: une balle magique vous aide dans vos décisions en donnant réponse à vos questions les plus existentielles. Les réponses possibles sont ici: [https://fr.wikipedia.org/wiki/Magic_8_Ball]()
+- Magic 8 Ball: une balle magique vous aide dans vos décisions en donnant réponse à vos questions les plus existentielles. Les réponses possibles sont ici: [https://fr.wikipedia.org/wiki/Magic_8_Ball](https://fr.wikipedia.org/wiki/Magic_8_Ball)
 - Scratch a besoin d'un break... il vous dit si c'est l'heure de la pause... ou non !
 
 ### Fonctions ###
