@@ -21,3 +21,4 @@
 
 - [Introduction to DOM events](http://coding.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/)
 - [La gestion des événements en JavaScript](http://www.alsacreations.com/article/lire/578-La-gestion-des-evenements-en-JavaScript.html) 
+- [Les dangers d'utiliser stopPropagation()](https://css-tricks.com/dangers-stopping-event-propagation/)
