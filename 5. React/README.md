@@ -15,6 +15,11 @@
 - [Liste de composants avec AJAX](https://jsfiddle.net/bfcepegra/sddcz1j1/)
 - [Formulaire](https://jsfiddle.net/bfcepegra/v23jay0e/)
 
+## Exercices ##
+
+- [Accordéon en React](https://jsfiddle.net/bfcepegra/852m8rhL/)
+- [Pony Club](https://jsfiddle.net/bfcepegra/852m8rhL/)
+
 ## Liens ##
 
 - [Documentation officielle](https://facebook.github.io/react/docs/hello-world.html)
