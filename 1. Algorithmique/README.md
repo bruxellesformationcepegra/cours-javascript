@@ -30,5 +30,7 @@
 
 - Scratch pense à un nombre mystère et vous devez le trouver. Il vous aide en vous indiquant si c'est trop haut ou trop bas.
 - Créez une liste de températures pour une semaine: Scratch doit trouver quel est la température la plus faible, la plus élevée, et la moyenne des températures pour la semaine.  
+- Donnez à Scratch un mot et il vous le donne à l'envers, par exemple: cool donnera looc
+- Donnez un terme composé à Scratch, comme Portable Network Graphics, et il vous retourne l'acronyme: PNG
 - 5cr47ch le h4ck3r: donnez un mot à Scratch et il vous le donne en h4ck3r 5p34k: les a deviennent 4, les e deviennent 3, les l deviennent 1, les t deviennent 7, les o deviennent 0, les s deviennent 5.
 - Scratch agent secret: donnez un mot à Scratch et il vous le donne "crypté", par exemple SCRATCH donne UETCEJ (utilisez le code de César)
